@@ -15,7 +15,7 @@ function App() {
       headers: { 'Content-type': 'application/json' },
       body: JSON.stringify({
         price,
-        name: name.substring(price.length + 1),
+        name: name.substring( price.length + 1),
         description,
         datetime
       })
