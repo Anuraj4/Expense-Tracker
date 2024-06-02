@@ -4,12 +4,13 @@ Expense Tracker is a simple and intuitive web application built with ReactJS to 
 
 # ✨ Features
 
-➕ Add Transactions: Easily add your income and expense transactions.
-🗂️ Transaction History: View your transaction history with details.
-📊 Expense Breakdown: Visual representation of expenses by category.
-📱 Responsive Design: Optimized for both desktop and mobile use.
-💾 Data Persistence: Save your data locally using the browser's local storage.
-🚀 Demo
+  ➕ Add Transactions: Easily add your income and expense transactions.
+  🗂️ Transaction History: View your transaction history with details.
+  📊 Expense Breakdown: Visual representation of expenses by category.
+  📱 Responsive Design: Optimized for both desktop and mobile use.
+  💾 Data Persistence: Save your data locally using the browser's local storage.
+
+# 🚀 Demo
 
 A live demo of the project is available here.
 
