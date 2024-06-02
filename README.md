@@ -1,6 +1,6 @@
 # Expense-Tracker
 
--Hi There, My name is Anuraj
+# Hi There, My name is Anuraj
 
 # This is the screenshot of the website interface
 
