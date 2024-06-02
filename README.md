@@ -42,15 +42,11 @@ Contributions are welcome! Please follow these steps:
 4) Push to the branch (git push origin feature-branch).
 5) Open a pull request.
  
-# 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# 🙏 Acknowledgements
-ReactJS Documentation
-MDN Web Docs
 
 # 📬 Contact
+
 If you have any questions or feedback, feel free to reach out:
 
-Email: [Email](anurajvenkatpurwar@example.com)
-GitHub: [Anuraj4](https://github.com/anuraj4/)
+1) Email: [Email](anurajvenkatpurwar@example.com)
+2) GitHub: [Anuraj4](https://github.com/anuraj4/)
+3) Instagram: [Instagram](https://www.instagram.com/a_n_u_r_a_j_70/)
