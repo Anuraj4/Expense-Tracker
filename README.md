@@ -18,54 +18,29 @@ A live demo of the project is available here.
 
 
 
-# 🛠️ Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/Anuraj4/Expense-Tracker
-cd Expense-Tracker
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open http://localhost:3000 to view it in the browser.
-
 # 📚 Usage
 Adding a Transaction:
 
-Navigate to the "Add Transaction" section.
-Fill in the details (amount, type, category, date, and description).
-Click "Add" to save the transaction.
-Viewing Transaction History:
+1) Navigate to the "Add Transaction" section.
+2) Fill in the details (amount, date and description).
+3) Click "Add" to save the transaction.
 
-Transactions will be listed in the "History" section.
-You can see all your transactions categorized by income and expenses.
-Analyzing Expenses:
-
-Check the "Expense Breakdown" section for a visual representation of your spending habits.
 
 # 🧰 Technologies Used
 
-ReactJS: Frontend library for building user interfaces.
-CSS: Styling the application.
-HTML: Structuring the page
-MongoDB: Storing data locally in the system.
+1) ReactJS: Frontend library for building user interfaces.
+2) CSS: Styling the application.
+3) HTML: Structuring the page
+4) MongoDB: Storing data locally in the system.
 
 # 🤝 Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
+1) Fork the repository.
+2) Create a new branch (git checkout -b feature-branch).
+3) Commit your changes (git commit -m 'Add some feature').
+4) Push to the branch (git push origin feature-branch).
+5) Open a pull request.
  
 # 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -73,8 +48,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # 🙏 Acknowledgements
 ReactJS Documentation
 MDN Web Docs
-📬 Contact
+
+# 📬 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: anurajvenkatpurwar@example.com
-GitHub: Anuraj4
+Email: [Email](anurajvenkatpurwar@example.com)
+GitHub: [Anuraj4](https://github.com/anuraj4/)
